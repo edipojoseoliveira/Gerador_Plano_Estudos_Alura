@@ -13,22 +13,22 @@ Este projeto desenvolvido no Google Colab utiliza a inteligência artificial Gem
 
 **Como Funciona:**
 
-    O usuário informa seu objetivo e conhecimentos prévios.
-    O sistema consulta a lista de cursos da Alura.
-    A inteligência artificial Gemini gera um plano de estudo personalizado, considerando o objetivo e as habilidades do usuário.
-    O plano de estudo é apresentado ao usuário, com a ordem ideal dos cursos a serem realizados.
+1. O usuário informa seu objetivo e conhecimentos prévios.
+2. O sistema consulta a lista de cursos da Alura.
+3. A inteligência artificial Gemini gera um plano de estudo personalizado, considerando o objetivo e as habilidades do usuário.
+4. O plano de estudo é apresentado ao usuário, com a ordem ideal dos cursos a serem realizados.
 
 **Benefícios:**
 
-    Aprendizado personalizado e direcionado.
-    Otimização do tempo e esforço do usuário.
-    Maior engajamento e motivação para o aprendizado.
-    Acesso à rica oferta de cursos da Alura.
+- Aprendizado personalizado e direcionado.
+- Otimização do tempo e esforço do usuário.
+- Maior engajamento e motivação para o aprendizado.
+- Acesso à rica oferta de cursos da Alura.
 
 **Tecnologias Utilizadas:**
 
-    Google Colab: Ambiente de desenvolvimento em nuvem.
-    SDK do Google: Integração com a inteligência artificial Gemini.
-    Biblioteca requests: Consulta de dados externos (cursos da Alura).
-    Biblioteca BeautifulSoup: Extração de informações de páginas HTML.
-    Inteligência artificial Gemini: Geração de planos de estudo personalizados.
+- Google Colab: Ambiente de desenvolvimento em nuvem.
+- SDK do Google: Integração com a inteligência artificial Gemini.
+- Biblioteca requests: Consulta de dados externos (cursos da Alura).
+- Biblioteca BeautifulSoup: Extração de informações de páginas HTML.
+- Inteligência artificial Gemini: Geração de planos de estudo personalizados.
